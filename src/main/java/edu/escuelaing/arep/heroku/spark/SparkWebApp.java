@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.heroku.Spark;
+package edu.escuelaing.arep.heroku.spark;
 
 import static spark.Spark.*;
 import edu.escuelaing.arep.heroku.Operations;

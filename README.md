@@ -36,6 +36,8 @@ Tener conocimiento sobre Maven, HEROKU, GIT, Spark y GITHUB.
 
 ## Integración Continua CircleCi
 
+[![CircleCI](https://circleci.com/gh/Nikolas2001-13/AREP-Taller2.svg?style=svg)](https://circleci.com/gh/Nikolas2001-13/AREP-Taller2)
+
 ## Correr las Pruebas
 
 Para correr las pruebas del programa habrá que ejecutar el comando
