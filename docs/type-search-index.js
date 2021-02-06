@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.escuelaing.arep.heroku","l":"AppTest"},{"p":"edu.escuelaing.arep.heroku","l":"LinkedList"},{"p":"edu.escuelaing.arep.heroku","l":"Node"},{"p":"edu.escuelaing.arep.heroku","l":"Operations"},{"p":"edu.escuelaing.arep.heroku.spark","l":"SparkWebApp"}]
